@@ -20,8 +20,28 @@ app.UseRouting();
 
 app.UseAuthorization();
 
+//app.MapControllerRoute(
+    //name: "default",
+    //pattern: "{controller=Home}/{action=Index}/{id?}");
+
+
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=TheLoai}/{action=Index}/{id?}");
+
+app.MapControllerRoute(
+    name: "the-loai",
+    pattern: "the-loai/{action=Index}/{id?}",
+    defaults: new { controller = "TheLoai", action = "Index" });
+
+app.MapControllerRoute(
+    name: "trang-chu",
+    pattern: "trang-chu/{action=Index}/{id?}",
+    default:new { controller = "home", acction = "Index" });
+
+app.MapControllerRoute(
+    name: "trang-chinh",
+    pattern: "trang-chinh",
+    default:new { controller = "home", acction = "Index" });
 
 app.Run();
