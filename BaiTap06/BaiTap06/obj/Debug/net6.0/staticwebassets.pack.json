@@ -1,0 +1,569 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BaiTap06.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BaiTap06.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\css\\bootsnav.css",
+      "PackagePath": "staticwebassets\\css\\bootsnav.css"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\css\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\slick.eot"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\css\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\slick.svg"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\css\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\css\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\slick.woff"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\css\\linearicons.css",
+      "PackagePath": "staticwebassets\\css\\linearicons.css"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\css\\slick-theme.css"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\about-img.jpg",
+      "PackagePath": "staticwebassets\\images\\about-img.jpg"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\blog\\b1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\b1.jpg"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\blog\\b2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\b2.jpg"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\blog\\b3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\b3.jpg"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\c1.png",
+      "PackagePath": "staticwebassets\\images\\c1.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\c2.png",
+      "PackagePath": "staticwebassets\\images\\c2.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\c3.png",
+      "PackagePath": "staticwebassets\\images\\c3.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\c4.png",
+      "PackagePath": "staticwebassets\\images\\c4.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\c5.png",
+      "PackagePath": "staticwebassets\\images\\c5.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\c6.png",
+      "PackagePath": "staticwebassets\\images\\c6.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\call.png",
+      "PackagePath": "staticwebassets\\images\\call.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\clients\\c1.png",
+      "PackagePath": "staticwebassets\\images\\clients\\c1.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\clients\\c2.png",
+      "PackagePath": "staticwebassets\\images\\clients\\c2.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\clients\\c3.png",
+      "PackagePath": "staticwebassets\\images\\clients\\c3.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\clients\\c4.png",
+      "PackagePath": "staticwebassets\\images\\clients\\c4.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\counter\\counter-banner.jpg",
+      "PackagePath": "staticwebassets\\images\\counter\\counter-banner.jpg"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\experience-img.jpg",
+      "PackagePath": "staticwebassets\\images\\experience-img.jpg"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\explore\\e1.jpg",
+      "PackagePath": "staticwebassets\\images\\explore\\e1.jpg"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\explore\\e2.jpg",
+      "PackagePath": "staticwebassets\\images\\explore\\e2.jpg"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\explore\\e3.jpg",
+      "PackagePath": "staticwebassets\\images\\explore\\e3.jpg"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\explore\\e4.jpg",
+      "PackagePath": "staticwebassets\\images\\explore\\e4.jpg"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\explore\\e5.jpg",
+      "PackagePath": "staticwebassets\\images\\explore\\e5.jpg"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\explore\\e6.jpg",
+      "PackagePath": "staticwebassets\\images\\explore\\e6.jpg"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\explore\\person.png",
+      "PackagePath": "staticwebassets\\images\\explore\\person.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\f1.png",
+      "PackagePath": "staticwebassets\\images\\f1.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\f2.png",
+      "PackagePath": "staticwebassets\\images\\f2.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\f3.png",
+      "PackagePath": "staticwebassets\\images\\f3.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\f4.png",
+      "PackagePath": "staticwebassets\\images\\f4.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\fb.png",
+      "PackagePath": "staticwebassets\\images\\fb.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\freelance-img.jpg",
+      "PackagePath": "staticwebassets\\images\\freelance-img.jpg"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\instagram.png",
+      "PackagePath": "staticwebassets\\images\\instagram.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\linkedin.png",
+      "PackagePath": "staticwebassets\\images\\linkedin.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\location.png",
+      "PackagePath": "staticwebassets\\images\\location.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\mail.png",
+      "PackagePath": "staticwebassets\\images\\mail.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\menu.png",
+      "PackagePath": "staticwebassets\\images\\menu.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\next-angle.png",
+      "PackagePath": "staticwebassets\\images\\next-angle.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\next.png",
+      "PackagePath": "staticwebassets\\images\\next.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\prev-angle.png",
+      "PackagePath": "staticwebassets\\images\\prev-angle.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\prev.png",
+      "PackagePath": "staticwebassets\\images\\prev.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\quote.png",
+      "PackagePath": "staticwebassets\\images\\quote.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\images\\search-icon.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\slider-img.png",
+      "PackagePath": "staticwebassets\\images\\slider-img.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\twitter.png",
+      "PackagePath": "staticwebassets\\images\\twitter.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\welcome-hero\\banner.jpg",
+      "PackagePath": "staticwebassets\\images\\welcome-hero\\banner.jpg"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\images\\youtube.png",
+      "PackagePath": "staticwebassets\\images\\youtube.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\img\\controls.png",
+      "PackagePath": "staticwebassets\\img\\controls.png"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\js\\bootsnav.js",
+      "PackagePath": "staticwebassets\\js\\bootsnav.js"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\js\\feather.min.js",
+      "PackagePath": "staticwebassets\\js\\feather.min.js"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\NONAME\\LTrWed\\BaiTap06\\BaiTap06\\wwwroot\\logo\\favicon.png",
+      "PackagePath": "staticwebassets\\logo\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BaiTap06.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BaiTap06.props",
+      "PackagePath": "build\\BaiTap06.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BaiTap06.props",
+      "PackagePath": "buildMultiTargeting\\BaiTap06.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BaiTap06.props",
+      "PackagePath": "buildTransitive\\BaiTap06.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

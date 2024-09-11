@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Baitap03\\Baitap03.csproj": {}
+    "D:\\NONAME\\LTrWed\\Baitap03\\Baitap03.csproj": {}
   },
   "projects": {
-    "D:\\Baitap03\\Baitap03.csproj": {
+    "D:\\NONAME\\LTrWed\\Baitap03\\Baitap03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Baitap03\\Baitap03.csproj",
+        "projectUniqueName": "D:\\NONAME\\LTrWed\\Baitap03\\Baitap03.csproj",
         "projectName": "Baitap03",
-        "projectPath": "D:\\Baitap03\\Baitap03.csproj",
+        "projectPath": "D:\\NONAME\\LTrWed\\Baitap03\\Baitap03.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Baitap03\\obj\\",
+        "outputPath": "D:\\NONAME\\LTrWed\\Baitap03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
