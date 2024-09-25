@@ -86,5 +86,53 @@ namespace BaiTap07.Controllers
             _db.SaveChanges();
             return RedirectToAction("Index");
         }
+        [HttpGet]
+        public IActionResult Details(int id)
+        {
+            if (id == 0)
+            {
+                return NotFound();
+            }
+
+            var theloai = _db.TheLoai.Find(id);
+
+            if (theloai == null)
+            {
+                return NotFound();
+            }
+
+            return View(theloai);
+        }
+
+        [HttpPost]
+        public IActionResult DetailsConfirm(int id)
+        {
+            var theloai = _db.TheLoai.Find(id);
+
+            if (theloai == null)
+            {
+                return NotFound();
+            }
+            return RedirectToAction("Details", new { id = id });
+        }
+        [HttpGet]
+        public IActionResult Search(string searchString)
+        {
+            if (!string.IsNullOrEmpty(searchString))
+            {
+                // Sử dụng LINQ để tìm kiếm
+                var theloai =_db.TheLoai.Where(tl => tl.Name.Contains(searchString)).ToList();
+
+                ViewBag.SearchString = searchString;
+                ViewBag.TheLoai = theloai;
+            }
+            else
+            {
+                var theloai =_db.TheLoai.ToList();
+                ViewBag.TheLoai = theloai;
+            }
+
+            return View("Index"); // Sử dụng lại View Index
+        }
     }
 }
