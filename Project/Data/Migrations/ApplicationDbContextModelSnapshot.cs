@@ -224,6 +224,37 @@ namespace Project.Data.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
+            modelBuilder.Entity("Project.Models.SanPham", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.Property<string>("Description")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ImageUrl")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<double>("Price")
+                        .HasColumnType("float");
+
+                    b.Property<int>("TheLoaiId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("TheLoaiId");
+
+                    b.ToTable("SanPham");
+                });
+
             modelBuilder.Entity("Project.Models.TheLoai", b =>
                 {
                     b.Property<int>("Id")
@@ -293,6 +324,17 @@ namespace Project.Data.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("Project.Models.SanPham", b =>
+                {
+                    b.HasOne("Project.Models.TheLoai", "TheLoai")
+                        .WithMany()
+                        .HasForeignKey("TheLoaiId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("TheLoai");
                 });
 #pragma warning restore 612, 618
         }

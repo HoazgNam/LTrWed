@@ -10,7 +10,7 @@ namespace Project.Data
             : base(options)
         {
         }
-
         public DbSet<TheLoai> TheLoai { get; set; }
+        public DbSet<SanPham> SanPham { get; set; }
     }
 }
