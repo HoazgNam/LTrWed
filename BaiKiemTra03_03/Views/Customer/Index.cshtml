@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Contract>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Mã Hợp Đồng</th>
+            <th>Tên Hợp Đồng</th>
+            <th>Ngày Ký</th>
+            <th>Khách Hàng</th>
+            <th>Giá Trị Hợp Đồng</th>
+            <th>Chức Năng</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var contract in Model)
+        {
+            <tr>
+                <td>@contract.ContractId</td>
+                <td>@contract.ContractName</td>
+                <td>@contract.SigningDate</td>
+                <td>@contract.Customer</td>
+                <td>@contract.ContractValue</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@contract.ContractId">Chỉnh Sửa</a> |
+                    <a asp-action="Details" asp-route-id="@contract.ContractId">Chi Tiết</a> |
+                    <a asp-action="Delete" asp-route-id="@contract.ContractId">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
