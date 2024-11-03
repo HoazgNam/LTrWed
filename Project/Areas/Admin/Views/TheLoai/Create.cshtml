@@ -1,7 +1,8 @@
-﻿    @model TheLoai
+﻿@model TheLoai
+
 <div class="container">
     <h3>Thêm thể loại</h3>
-    <div asp-validation-summary="All" class="text-danger"></div>
+    <div asp-validation-summary="All" class="text-danger"> </div>
     <form method="post">
         <div class="form-group">
             <label asp-for="Name">Tên thể loại</label>
@@ -16,7 +17,7 @@
         <button type="submit" class="btn btn-primary">Tạo mới</button>
     </form>
 </div>
-@section Scripts{
+@section Scripts {
     @{
         <partial name="_ValidationScriptsPartial" />
     }

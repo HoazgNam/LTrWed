@@ -3,8 +3,14 @@
 @inject UserManager<IdentityUser> UserManager
 
 <ul class="navbar-nav">
+   
 @if (SignInManager.IsSignedIn(User))
-{
+{ 
+    <li class="nav-item">
+            <a class="nav-link parent" asp-action="Index" asp-controller="GioHang">
+                <img src="https://kanly.vn/img_shop_2017/Khac/Buttom_CS/icon_giao_hang.jpg" style="width: 20px" />
+            </a>
+    </li>
     <li class="nav-item">
         <a  class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Hello @User.Identity?.Name!</a>
     </li>

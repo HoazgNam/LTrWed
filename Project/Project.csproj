@@ -1,35 +1,30 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>aspnet-Project-802b2eb6-e132-4aab-8ca2-ec7b13f1f0f7</UserSecretsId>
+    <UserSecretsId>aspnet-Project-ade0749f-f85f-4858-b101-efbc8abe2f6b</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="6.0.21" />
-    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.21" />
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="8.0.8" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.8" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="8.0.8" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.28" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.26">
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="8.0.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.8">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational.Design" Version="1.1.6" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational.Design.Specification.Tests" Version="2.0.3" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite.Design" Version="1.1.6" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.21" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer.Abstractions" Version="8.0.8" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer.Design" Version="1.1.6" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite" Version="6.0.12" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.21" />
-    <PackageReference Include="Microsoft.IdentityModel.JsonWebTokens" Version="8.1.1" />
-    <PackageReference Include="Microsoft.IdentityModel.Logging" Version="8.1.1" />
-    <PackageReference Include="Microsoft.IdentityModel.Protocols" Version="8.1.1" />
-    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="8.1.1" />
-    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.17" />
-    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="8.0.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.8" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\Admin\Controllers\" />
+    <Folder Include="Areas\Customer\Controllers\" />
   </ItemGroup>
 
 </Project>

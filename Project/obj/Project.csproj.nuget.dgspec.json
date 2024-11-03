@@ -18,15 +18,16 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -34,89 +35,54 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.21, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.21, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
               "version": "[8.0.8, )"
             },
-            "Microsoft.EntityFrameworkCore": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
-              "version": "[6.0.28, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.26, )"
-            },
-            "Microsoft.EntityFrameworkCore.Relational.Design": {
-              "target": "Package",
-              "version": "[1.1.6, )"
-            },
-            "Microsoft.EntityFrameworkCore.Relational.Design.Specification.Tests": {
-              "target": "Package",
-              "version": "[2.0.3, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.21, )"
+              "version": "[8.0.8, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer.Abstractions": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[8.0.8, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
-              "target": "Package",
-              "version": "[1.1.6, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite": {
-              "target": "Package",
-              "version": "[6.0.12, )"
-            },
-            "Microsoft.EntityFrameworkCore.Sqlite.Design": {
-              "target": "Package",
-              "version": "[1.1.6, )"
-            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
-              "version": "[6.0.21, )"
-            },
-            "Microsoft.IdentityModel.JsonWebTokens": {
-              "target": "Package",
-              "version": "[8.1.1, )"
-            },
-            "Microsoft.IdentityModel.Logging": {
-              "target": "Package",
-              "version": "[8.1.1, )"
-            },
-            "Microsoft.IdentityModel.Protocols": {
-              "target": "Package",
-              "version": "[8.1.1, )"
-            },
-            "Microsoft.IdentityModel.Tokens": {
-              "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[6.0.17, )"
-            },
-            "System.IdentityModel.Tokens.Jwt": {
-              "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.0.6, )"
             }
           },
           "imports": [
@@ -138,7 +104,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

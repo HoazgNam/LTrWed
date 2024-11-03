@@ -1,6 +1,8 @@
 ﻿using Project.Data;
 using Project.Models;
 using Microsoft.AspNetCore.Mvc;
+using System.Linq;
+using Microsoft.CodeAnalysis.CSharp.Syntax;
 
 namespace Project.Controllers
 {
@@ -12,12 +14,10 @@ namespace Project.Controllers
         {
             _db = db;
         }
-
         public IActionResult Index()
         {
             var theloai = _db.TheLoai.ToList();
-            ViewBag.TheLoai = theloai;
-
+            ViewBag.theloai = theloai;
             return View();
         }
         [HttpGet]
@@ -40,7 +40,6 @@ namespace Project.Controllers
             }
             return View();
         }
-        [HttpGet]
         public IActionResult Edit(int id)
         {
             if (id == 0)
@@ -65,7 +64,6 @@ namespace Project.Controllers
             }
             return View();
         }
-
         [HttpGet]
         public IActionResult Delete(int id)
         {
@@ -76,9 +74,8 @@ namespace Project.Controllers
             var theloai = _db.TheLoai.Find(id);
             return View(theloai);
         }
-
         [HttpPost]
-        public IActionResult DeleteConform(int id)
+        public IActionResult DeleteConfirm(int id)
         {
             var theloai = _db.TheLoai.Find(id);
             if (theloai == null)
@@ -89,17 +86,14 @@ namespace Project.Controllers
             _db.SaveChanges();
             return RedirectToAction("Index");
         }
-        [HttpGet]
+        [HttpPost]
         public IActionResult Detail(int id)
         {
-
-
-            var theloai = _db.TheLoai.Find(id);
-            if (theloai == null)
+            if (id == 0)
             {
                 return NotFound();
             }
-
+            var theloai = _db.TheLoai.Find(id);
             return View(theloai);
         }
         [HttpGet]
@@ -107,17 +101,17 @@ namespace Project.Controllers
         {
             if (!string.IsNullOrEmpty(searchString))
             {
-                //Sử Dụng LINQ
+                // sử dụng linq
                 var theloai = _db.TheLoai.
-                    Where(tl => tl.Name.Contains(searchString)).ToList();
-                ViewBag.searchString = searchString;
-                ViewBag.TheLoai = theloai;
+                Where(tl => tl.Name.Contains(searchString)).ToList();
 
+                ViewBag.SearchString = searchString;
+                ViewBag.TheLoai = theloai;
             }
             else
             {
                 var theloai = _db.TheLoai.ToList();
-                ViewBag.TheLoai = theloai;
+                ViewBag.TheLoai = theloai; 
             }
             return View("Index");
         }

@@ -1,0 +1,1770 @@
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\NuGet.Common.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\System.CodeDom.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\NoName\asp_wed\Project\obj\Debug\net8.0\Project.genruntimeconfig.cache
+E:\NoName\asp_wed\Project\obj\Debug\net8.0\Project.csproj.AssemblyReference.cache
+E:\NoName\asp_wed\Project\obj\Debug\net8.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\NoName\asp_wed\Project\obj\Debug\net8.0\Project.AssemblyInfoInputs.cache
+E:\NoName\asp_wed\Project\obj\Debug\net8.0\Project.AssemblyInfo.cs
+E:\NoName\asp_wed\Project\obj\Debug\net8.0\Project.csproj.CoreCompileInputs.cache
+E:\NoName\asp_wed\Project\obj\Debug\net8.0\Project.MvcApplicationPartsAssemblyInfo.cs
+E:\NoName\asp_wed\Project\obj\Debug\net8.0\Project.MvcApplicationPartsAssemblyInfo.cache
+E:\NoName\asp_wed\Project\obj\Debug\net8.0\Project.RazorAssemblyInfo.cache
+E:\NoName\asp_wed\Project\obj\Debug\net8.0\Project.RazorAssemblyInfo.cs
+E:\NoName\asp_wed\Project\obj\Debug\net8.0\Project.sourcelink.json
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\appsettings.Development.json
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\appsettings.json
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Project.staticwebassets.runtime.json
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Project.exe
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Project.deps.json
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Project.runtimeconfig.json
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Project.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Project.pdb
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cors.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Results.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Identity.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Metadata.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Session.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.CSharp.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Memory.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Features.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Http.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Core.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Console.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.ObjectPool.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Primitives.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.WebEncoders.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.JSInterop.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Net.Http.Headers.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.VisualBasic.Core.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.VisualBasic.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Win32.Primitives.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\Microsoft.Win32.Registry.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\mscorlib.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\netstandard.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.AppContext.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Buffers.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Collections.Concurrent.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Collections.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Collections.Immutable.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Collections.NonGeneric.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Collections.Specialized.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.ComponentModel.Annotations.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.ComponentModel.DataAnnotations.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.ComponentModel.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.ComponentModel.EventBasedAsync.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.ComponentModel.Primitives.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.ComponentModel.TypeConverter.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Configuration.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Console.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Core.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Data.Common.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Data.DataSetExtensions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Data.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Diagnostics.Contracts.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Diagnostics.Debug.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Diagnostics.DiagnosticSource.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Diagnostics.EventLog.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Diagnostics.FileVersionInfo.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Diagnostics.Process.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Diagnostics.StackTrace.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Diagnostics.Tools.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Diagnostics.TraceSource.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Diagnostics.Tracing.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Drawing.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Drawing.Primitives.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Dynamic.Runtime.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Formats.Asn1.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Formats.Tar.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Globalization.Calendars.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Globalization.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Globalization.Extensions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.IO.Compression.Brotli.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.IO.Compression.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.IO.Compression.FileSystem.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.IO.Compression.ZipFile.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.IO.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.IO.FileSystem.AccessControl.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.IO.FileSystem.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.IO.FileSystem.DriveInfo.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.IO.FileSystem.Primitives.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.IO.FileSystem.Watcher.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.IO.IsolatedStorage.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.IO.MemoryMappedFiles.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.IO.Pipelines.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.IO.Pipes.AccessControl.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.IO.Pipes.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.IO.UnmanagedMemoryStream.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Linq.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Linq.Expressions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Linq.Parallel.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Linq.Queryable.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Memory.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Net.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Net.Http.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Net.Http.Json.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Net.HttpListener.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Net.Mail.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Net.NameResolution.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Net.NetworkInformation.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Net.Ping.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Net.Primitives.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Net.Quic.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Net.Requests.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Net.Security.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Net.ServicePoint.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Net.Sockets.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Net.WebClient.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Net.WebHeaderCollection.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Net.WebProxy.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Net.WebSockets.Client.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Net.WebSockets.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Numerics.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Numerics.Vectors.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.ObjectModel.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Reflection.DispatchProxy.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Reflection.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Reflection.Emit.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Reflection.Emit.ILGeneration.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Reflection.Emit.Lightweight.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Reflection.Extensions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Reflection.Metadata.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Reflection.Primitives.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Reflection.TypeExtensions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Resources.Reader.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Resources.ResourceManager.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Resources.Writer.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Runtime.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Runtime.Extensions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Runtime.Handles.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Runtime.InteropServices.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Runtime.InteropServices.JavaScript.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Runtime.Intrinsics.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Runtime.Loader.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Runtime.Numerics.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Runtime.Serialization.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Runtime.Serialization.Formatters.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Runtime.Serialization.Json.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Runtime.Serialization.Primitives.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Runtime.Serialization.Xml.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Security.AccessControl.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Security.Claims.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Security.Cryptography.Algorithms.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Security.Cryptography.Cng.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Security.Cryptography.Csp.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Security.Cryptography.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Security.Cryptography.Encoding.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Security.Cryptography.OpenSsl.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Security.Cryptography.Primitives.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Security.Cryptography.X509Certificates.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Security.Cryptography.Xml.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Security.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Security.Principal.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Security.Principal.Windows.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Security.SecureString.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.ServiceModel.Web.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.ServiceProcess.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Text.Encoding.CodePages.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Text.Encoding.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Text.Encoding.Extensions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Text.Encodings.Web.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Text.Json.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Text.RegularExpressions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Threading.Channels.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Threading.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Threading.Overlapped.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Threading.RateLimiting.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Threading.Tasks.Dataflow.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Threading.Tasks.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Threading.Tasks.Extensions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Threading.Tasks.Parallel.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Threading.Thread.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Threading.ThreadPool.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Threading.Timer.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Transactions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Transactions.Local.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.ValueTuple.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Web.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Web.HttpUtility.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Windows.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Xml.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Xml.Linq.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Xml.ReaderWriter.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Xml.Serialization.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Xml.XDocument.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Xml.XmlDocument.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Xml.XmlSerializer.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Xml.XPath.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\System.Xml.XPath.XDocument.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\refs\WindowsBase.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Azure.Core.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Azure.Identity.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Humanizer.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.Build.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\System.Memory.Data.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\NoName\asp_wed\Project\obj\Debug\net8.0\staticwebassets.build.json
+E:\NoName\asp_wed\Project\obj\Debug\net8.0\staticwebassets.development.json
+E:\NoName\asp_wed\Project\obj\Debug\net8.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+E:\NoName\asp_wed\Project\obj\Debug\net8.0\staticwebassets\msbuild.build.Project.props
+E:\NoName\asp_wed\Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+E:\NoName\asp_wed\Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Project.props
+E:\NoName\asp_wed\Project\obj\Debug\net8.0\staticwebassets.pack.json
+E:\NoName\asp_wed\Project\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\NoName\asp_wed\Project\obj\Debug\net8.0\scopedcss\bundle\Project.styles.css
+E:\NoName\asp_wed\Project\obj\Debug\net8.0\scopedcss\projectbundle\Project.bundle.scp.css
+E:\NoName\asp_wed\Project\obj\Debug\net8.0\Project.csproj.Up2Date
+E:\NoName\asp_wed\Project\obj\Debug\net8.0\Project.dll
+E:\NoName\asp_wed\Project\obj\Debug\net8.0\refint\Project.dll
+E:\NoName\asp_wed\Project\obj\Debug\net8.0\Project.pdb
+E:\NoName\asp_wed\Project\obj\Debug\net8.0\ref\Project.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\NoName\asp_wed\Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\luu note\Project\bin\Debug\net8.0\appsettings.Development.json
+D:\luu note\Project\bin\Debug\net8.0\appsettings.json
+D:\luu note\Project\bin\Debug\net8.0\Project.staticwebassets.runtime.json
+D:\luu note\Project\bin\Debug\net8.0\Project.exe
+D:\luu note\Project\bin\Debug\net8.0\Project.deps.json
+D:\luu note\Project\bin\Debug\net8.0\Project.runtimeconfig.json
+D:\luu note\Project\bin\Debug\net8.0\Project.dll
+D:\luu note\Project\bin\Debug\net8.0\Project.pdb
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Session.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.CSharp.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Features.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Http.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Primitives.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.JSInterop.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Net.Http.Headers.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.VisualBasic.Core.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.VisualBasic.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Win32.Primitives.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\Microsoft.Win32.Registry.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\mscorlib.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\netstandard.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.AppContext.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Buffers.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Collections.Concurrent.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Collections.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Collections.Immutable.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Collections.NonGeneric.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Collections.Specialized.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.ComponentModel.Annotations.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.ComponentModel.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.ComponentModel.Primitives.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.ComponentModel.TypeConverter.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Configuration.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Console.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Core.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Data.Common.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Data.DataSetExtensions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Data.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Diagnostics.Contracts.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Diagnostics.Debug.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Diagnostics.EventLog.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Diagnostics.Process.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Diagnostics.StackTrace.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Diagnostics.Tools.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Diagnostics.TraceSource.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Diagnostics.Tracing.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Drawing.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Drawing.Primitives.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Dynamic.Runtime.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Formats.Asn1.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Formats.Tar.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Globalization.Calendars.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Globalization.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Globalization.Extensions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.IO.Compression.Brotli.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.IO.Compression.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.IO.Compression.FileSystem.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.IO.Compression.ZipFile.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.IO.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.IO.FileSystem.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.IO.FileSystem.Primitives.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.IO.FileSystem.Watcher.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.IO.IsolatedStorage.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.IO.MemoryMappedFiles.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.IO.Pipelines.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.IO.Pipes.AccessControl.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.IO.Pipes.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Linq.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Linq.Expressions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Linq.Parallel.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Linq.Queryable.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Memory.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Net.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Net.Http.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Net.Http.Json.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Net.HttpListener.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Net.Mail.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Net.NameResolution.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Net.NetworkInformation.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Net.Ping.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Net.Primitives.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Net.Quic.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Net.Requests.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Net.Security.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Net.ServicePoint.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Net.Sockets.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Net.WebClient.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Net.WebHeaderCollection.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Net.WebProxy.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Net.WebSockets.Client.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Net.WebSockets.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Numerics.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Numerics.Vectors.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.ObjectModel.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Reflection.DispatchProxy.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Reflection.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Reflection.Emit.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Reflection.Extensions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Reflection.Metadata.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Reflection.Primitives.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Reflection.TypeExtensions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Resources.Reader.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Resources.ResourceManager.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Resources.Writer.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Runtime.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Runtime.Extensions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Runtime.Handles.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Runtime.InteropServices.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Runtime.InteropServices.JavaScript.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Runtime.Intrinsics.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Runtime.Loader.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Runtime.Numerics.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Runtime.Serialization.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Runtime.Serialization.Json.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Runtime.Serialization.Xml.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Security.AccessControl.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Security.Claims.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Security.Cryptography.Cng.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Security.Cryptography.Csp.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Security.Cryptography.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Security.Cryptography.Encoding.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Security.Cryptography.Primitives.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Security.Cryptography.Xml.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Security.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Security.Principal.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Security.Principal.Windows.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Security.SecureString.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.ServiceModel.Web.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.ServiceProcess.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Text.Encoding.CodePages.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Text.Encoding.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Text.Encoding.Extensions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Text.Encodings.Web.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Text.Json.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Text.RegularExpressions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Threading.Channels.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Threading.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Threading.Overlapped.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Threading.RateLimiting.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Threading.Tasks.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Threading.Tasks.Extensions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Threading.Tasks.Parallel.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Threading.Thread.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Threading.ThreadPool.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Threading.Timer.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Transactions.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Transactions.Local.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.ValueTuple.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Web.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Web.HttpUtility.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Windows.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Xml.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Xml.Linq.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Xml.ReaderWriter.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Xml.Serialization.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Xml.XDocument.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Xml.XmlDocument.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Xml.XmlSerializer.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Xml.XPath.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\System.Xml.XPath.XDocument.dll
+D:\luu note\Project\bin\Debug\net8.0\refs\WindowsBase.dll
+D:\luu note\Project\bin\Debug\net8.0\Azure.Core.dll
+D:\luu note\Project\bin\Debug\net8.0\Azure.Identity.dll
+D:\luu note\Project\bin\Debug\net8.0\Humanizer.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.Build.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\luu note\Project\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\luu note\Project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\luu note\Project\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\luu note\Project\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\luu note\Project\bin\Debug\net8.0\NuGet.Common.dll
+D:\luu note\Project\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\luu note\Project\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\luu note\Project\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\luu note\Project\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\luu note\Project\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\luu note\Project\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\luu note\Project\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\luu note\Project\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\luu note\Project\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\luu note\Project\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\luu note\Project\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\luu note\Project\bin\Debug\net8.0\System.CodeDom.dll
+D:\luu note\Project\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\luu note\Project\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\luu note\Project\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\luu note\Project\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\luu note\Project\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\luu note\Project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\luu note\Project\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\luu note\Project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\luu note\Project\bin\Debug\net8.0\System.Memory.Data.dll
+D:\luu note\Project\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\luu note\Project\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\luu note\Project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\luu note\Project\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\luu note\Project\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\luu note\Project\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\luu note\Project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\luu note\Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\luu note\Project\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\luu note\Project\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\luu note\Project\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\luu note\Project\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\luu note\Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\luu note\Project\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\luu note\Project\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\luu note\Project\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\luu note\Project\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\luu note\Project\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\luu note\Project\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\luu note\Project\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\luu note\Project\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\luu note\Project\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\luu note\Project\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\luu note\Project\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\luu note\Project\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\luu note\Project\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\luu note\Project\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\luu note\Project\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\luu note\Project\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\luu note\Project\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\luu note\Project\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\luu note\Project\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\luu note\Project\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\luu note\Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\luu note\Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\luu note\Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\luu note\Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\luu note\Project\obj\Debug\net8.0\Project.csproj.AssemblyReference.cache
+D:\luu note\Project\obj\Debug\net8.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\luu note\Project\obj\Debug\net8.0\Project.AssemblyInfoInputs.cache
+D:\luu note\Project\obj\Debug\net8.0\Project.AssemblyInfo.cs
+D:\luu note\Project\obj\Debug\net8.0\Project.csproj.CoreCompileInputs.cache
+D:\luu note\Project\obj\Debug\net8.0\Project.MvcApplicationPartsAssemblyInfo.cs
+D:\luu note\Project\obj\Debug\net8.0\Project.MvcApplicationPartsAssemblyInfo.cache
+D:\luu note\Project\obj\Debug\net8.0\Project.RazorAssemblyInfo.cache
+D:\luu note\Project\obj\Debug\net8.0\Project.RazorAssemblyInfo.cs
+D:\luu note\Project\obj\Debug\net8.0\staticwebassets.build.json
+D:\luu note\Project\obj\Debug\net8.0\staticwebassets.development.json
+D:\luu note\Project\obj\Debug\net8.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\luu note\Project\obj\Debug\net8.0\staticwebassets\msbuild.build.Project.props
+D:\luu note\Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+D:\luu note\Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Project.props
+D:\luu note\Project\obj\Debug\net8.0\staticwebassets.pack.json
+D:\luu note\Project\obj\Debug\net8.0\scopedcss\bundle\Project.styles.css
+D:\luu note\Project\obj\Debug\net8.0\Project.csproj.Up2Date
+D:\luu note\Project\obj\Debug\net8.0\Project.dll
+D:\luu note\Project\obj\Debug\net8.0\refint\Project.dll
+D:\luu note\Project\obj\Debug\net8.0\Project.pdb
+D:\luu note\Project\obj\Debug\net8.0\Project.genruntimeconfig.cache
+D:\luu note\Project\obj\Debug\net8.0\ref\Project.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\appsettings.Development.json
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\appsettings.json
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Project.staticwebassets.runtime.json
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Project.exe
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Project.deps.json
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Project.runtimeconfig.json
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Project.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Project.pdb
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Session.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.CSharp.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Features.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Http.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.Primitives.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.JSInterop.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Net.Http.Headers.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.VisualBasic.Core.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.VisualBasic.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Win32.Primitives.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\Microsoft.Win32.Registry.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\mscorlib.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\netstandard.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.AppContext.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Buffers.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Collections.Concurrent.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Collections.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Collections.Immutable.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Collections.NonGeneric.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Collections.Specialized.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.ComponentModel.Annotations.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.ComponentModel.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.ComponentModel.Primitives.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.ComponentModel.TypeConverter.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Configuration.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Console.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Core.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Data.Common.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Data.DataSetExtensions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Data.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Diagnostics.Contracts.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Diagnostics.Debug.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Diagnostics.EventLog.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Diagnostics.Process.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Diagnostics.StackTrace.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Diagnostics.Tools.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Diagnostics.TraceSource.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Diagnostics.Tracing.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Drawing.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Drawing.Primitives.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Dynamic.Runtime.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Formats.Asn1.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Formats.Tar.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Globalization.Calendars.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Globalization.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Globalization.Extensions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.IO.Compression.Brotli.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.IO.Compression.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.IO.Compression.FileSystem.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.IO.Compression.ZipFile.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.IO.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.IO.FileSystem.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.IO.FileSystem.Primitives.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.IO.FileSystem.Watcher.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.IO.IsolatedStorage.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.IO.MemoryMappedFiles.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.IO.Pipelines.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.IO.Pipes.AccessControl.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.IO.Pipes.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Linq.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Linq.Expressions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Linq.Parallel.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Linq.Queryable.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Memory.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Net.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Net.Http.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Net.Http.Json.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Net.HttpListener.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Net.Mail.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Net.NameResolution.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Net.NetworkInformation.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Net.Ping.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Net.Primitives.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Net.Quic.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Net.Requests.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Net.Security.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Net.ServicePoint.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Net.Sockets.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Net.WebClient.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Net.WebHeaderCollection.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Net.WebProxy.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Net.WebSockets.Client.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Net.WebSockets.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Numerics.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Numerics.Vectors.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.ObjectModel.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Reflection.DispatchProxy.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Reflection.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Reflection.Emit.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Reflection.Extensions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Reflection.Metadata.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Reflection.Primitives.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Reflection.TypeExtensions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Resources.Reader.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Resources.ResourceManager.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Resources.Writer.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Runtime.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Runtime.Extensions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Runtime.Handles.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Runtime.InteropServices.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Runtime.InteropServices.JavaScript.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Runtime.Intrinsics.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Runtime.Loader.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Runtime.Numerics.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Runtime.Serialization.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Runtime.Serialization.Json.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Runtime.Serialization.Xml.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Security.AccessControl.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Security.Claims.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Security.Cryptography.Cng.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Security.Cryptography.Csp.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Security.Cryptography.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Security.Cryptography.Encoding.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Security.Cryptography.Primitives.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Security.Cryptography.Xml.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Security.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Security.Principal.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Security.Principal.Windows.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Security.SecureString.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.ServiceModel.Web.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.ServiceProcess.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Text.Encoding.CodePages.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Text.Encoding.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Text.Encoding.Extensions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Text.Encodings.Web.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Text.Json.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Text.RegularExpressions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Threading.Channels.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Threading.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Threading.Overlapped.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Threading.RateLimiting.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Threading.Tasks.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Threading.Tasks.Extensions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Threading.Tasks.Parallel.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Threading.Thread.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Threading.ThreadPool.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Threading.Timer.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Transactions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Transactions.Local.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.ValueTuple.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Web.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Web.HttpUtility.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Windows.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Xml.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Xml.Linq.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Xml.ReaderWriter.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Xml.Serialization.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Xml.XDocument.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Xml.XmlDocument.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Xml.XmlSerializer.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Xml.XPath.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\System.Xml.XPath.XDocument.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\refs\WindowsBase.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Azure.Core.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Azure.Identity.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Humanizer.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.Build.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\NuGet.Common.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\System.CodeDom.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\System.Memory.Data.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\NONAME\LTrWed\Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\NONAME\LTrWed\Project\obj\Debug\net8.0\Project.csproj.AssemblyReference.cache
+D:\NONAME\LTrWed\Project\obj\Debug\net8.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\NONAME\LTrWed\Project\obj\Debug\net8.0\Project.AssemblyInfoInputs.cache
+D:\NONAME\LTrWed\Project\obj\Debug\net8.0\Project.AssemblyInfo.cs
+D:\NONAME\LTrWed\Project\obj\Debug\net8.0\Project.csproj.CoreCompileInputs.cache
+D:\NONAME\LTrWed\Project\obj\Debug\net8.0\Project.MvcApplicationPartsAssemblyInfo.cs
+D:\NONAME\LTrWed\Project\obj\Debug\net8.0\Project.MvcApplicationPartsAssemblyInfo.cache
+D:\NONAME\LTrWed\Project\obj\Debug\net8.0\Project.RazorAssemblyInfo.cache
+D:\NONAME\LTrWed\Project\obj\Debug\net8.0\Project.RazorAssemblyInfo.cs
+D:\NONAME\LTrWed\Project\obj\Debug\net8.0\Project.sourcelink.json
+D:\NONAME\LTrWed\Project\obj\Debug\net8.0\staticwebassets.build.json
+D:\NONAME\LTrWed\Project\obj\Debug\net8.0\staticwebassets.development.json
+D:\NONAME\LTrWed\Project\obj\Debug\net8.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NONAME\LTrWed\Project\obj\Debug\net8.0\staticwebassets\msbuild.build.Project.props
+D:\NONAME\LTrWed\Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+D:\NONAME\LTrWed\Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Project.props
+D:\NONAME\LTrWed\Project\obj\Debug\net8.0\staticwebassets.pack.json
+D:\NONAME\LTrWed\Project\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\NONAME\LTrWed\Project\obj\Debug\net8.0\scopedcss\bundle\Project.styles.css
+D:\NONAME\LTrWed\Project\obj\Debug\net8.0\scopedcss\projectbundle\Project.bundle.scp.css
+D:\NONAME\LTrWed\Project\obj\Debug\net8.0\Project.csproj.Up2Date
+D:\NONAME\LTrWed\Project\obj\Debug\net8.0\Project.dll
+D:\NONAME\LTrWed\Project\obj\Debug\net8.0\refint\Project.dll
+D:\NONAME\LTrWed\Project\obj\Debug\net8.0\Project.pdb
+D:\NONAME\LTrWed\Project\obj\Debug\net8.0\Project.genruntimeconfig.cache
+D:\NONAME\LTrWed\Project\obj\Debug\net8.0\ref\Project.dll

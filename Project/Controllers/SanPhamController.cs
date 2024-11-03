@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Project.Data;
@@ -7,6 +8,7 @@ using Project.Models;
 namespace Project.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles ="Admin")]
     public class SanPhamController : Controller
     {
         private readonly ApplicationDbContext _db;
@@ -17,7 +19,6 @@ namespace Project.Controllers
         public IActionResult Index()
         {
             IEnumerable<SanPham> sanpham = _db.SanPham.Include("TheLoai").ToList();
-
             return View(sanpham);
         }
         [HttpGet]
@@ -32,6 +33,7 @@ namespace Project.Controllers
                 }
                 );
             ViewBag.DSTheLoai = dstheloai;
+
             if (id == 0)
             {
                 return View(sanpham);
@@ -40,9 +42,7 @@ namespace Project.Controllers
             {
                 sanpham = _db.SanPham.Include("TheLoai").FirstOrDefault(sp => sp.Id == id);
                 return View(sanpham);
-            }
-
-
+            } 
         }
         [HttpPost]
         public IActionResult Upsert(SanPham sanpham)
@@ -61,20 +61,20 @@ namespace Project.Controllers
                 return RedirectToAction("Index");
             }
             return View();
+
         }
-            [HttpPost]
-            public IActionResult Delete(int id)
+        [HttpPost]
+        public IActionResult Delete(int id)
+        {
+            var sanpham = _db.SanPham.FirstOrDefault(sp => sp.Id == id);
+            if (sanpham == null)
             {
-                var sanpham = _db.SanPham.FirstOrDefault(sp => sp.Id == id);
-
-                if (sanpham == null)
-                {
-                    return NotFound();
-                }
-
+                return NotFound();
+            }
             _db.SanPham.Remove(sanpham);
             _db.SaveChanges();
             return Json(new { success = true });
-            }
         }
+
     }
+}

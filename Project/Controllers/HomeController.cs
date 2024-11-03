@@ -1,30 +1,41 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Project.Data;
 using Project.Models;
 using System.Diagnostics;
+using System.Security.Claims;
 
 namespace Project.Controllers
-
 {
     [Area("Customer")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-
         private readonly ApplicationDbContext _db;
-
         public HomeController(ILogger<HomeController> logger, ApplicationDbContext db)
         {
             _logger = logger;
             _db = db;
-        }   
+        }
+
         public IActionResult Index()
         {
             IEnumerable<SanPham> sanpham = _db.SanPham.Include("TheLoai").ToList();
 
             return View(sanpham);
-         }
+        }
+        [HttpGet]
+        public IActionResult Details(int sanphamid)
+        {
+            GioHang giohang = new GioHang()
+            {
+                SanPhamId = sanphamid,
+                SanPham = _db.SanPham.FirstOrDefault(sp => sp.Id == sanphamid),
+                Quantity = 1
+            };
+            return View(giohang);
+        }
         public IActionResult Privacy()
         {
             return View();
@@ -35,6 +46,43 @@ namespace Project.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+        public IActionResult FilterByTheLoai(int id)
+        {
+            IEnumerable<SanPham> sanpham = _db.SanPham.Include("TheLoai")
+                .Where(sp => sp.TheLoai.Id == id)
+                .ToList();
+            return View("Index", sanpham);
+        }
+        [HttpPost]
+        [Authorize]
 
+        public IActionResult Details(GioHang giohang)
+        {
+            // Lấy thông tin đăng nhập
+            var identity = (ClaimsIdentity)User.Identity;
+            var claim = identity.FindFirst(ClaimTypes.NameIdentifier);
+            giohang.ApplicationUserId = claim.Value;
+
+
+            // Kiểm tra sản phẩm đã có trong giỏ hàng chưa?
+            var giohangdb = _db.GioHang.FirstOrDefault(sp => sp.SanPhamId == giohang.SanPhamId && sp.ApplicationUserId == giohang.ApplicationUserId);
+
+            if (giohangdb == null)
+
+            {
+                // Nếu sản phẩm chưa có trong giỏ hàng, thêm mới
+                _db.GioHang.Add(giohang);
+            }
+            else
+            {
+                // Nếu sản phẩm đã có trong giỏ hàng, cập nhật số lượng
+                giohangdb.Quantity += giohang.Quantity;
+            }
+
+            // Lưu xuống cơ sở dữ liệu
+            _db.SaveChanges();
+
+            return RedirectToAction("Index");
+        }
     }
 }
